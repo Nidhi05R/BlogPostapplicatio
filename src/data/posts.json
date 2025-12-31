@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "React Basics",
+    "description": "Learn the basics of React JS.",
+    "tags": ["react", "frontend"],
+    "author": "John-doe"
+  },
+  {
+    "id": 2,
+    "title": "CSS Flexbox",
+    "description": "Understand Flexbox layout system.",
+    "tags": ["css", "design"],
+    "author": "John-doe"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript ES6",
+    "description": "Modern JavaScript features explained.",
+    "tags": ["javascript"],
+    "author": "John-doe"
+  }
+]
